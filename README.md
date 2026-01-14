@@ -24,6 +24,3 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<a href="https://safenode.cloud/safecode">
-  <img src="https://i.postimg.cc/9fMqbs8k/logos-(6).png" alt="Dev SAFECODE" width="180" height="32" />
-</a>
