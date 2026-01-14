@@ -11,6 +11,9 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=lavosiernas&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<a href="https://safenode.cloud/safecode">
+  <img src="https://i.postimg.cc/9fMqbs8k/logos-(6).png" alt="Dev SAFECODE" width="180" height="32" />
+</a>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
