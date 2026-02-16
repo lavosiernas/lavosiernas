@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://i.postimg.cc/DznYQ5BY/Banner-para-linkedin-profissional-moderno-azul-escuro-(1920-x-1080-px).png" />
+</p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lvnas._) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:slavosier298@gmail.com) 
